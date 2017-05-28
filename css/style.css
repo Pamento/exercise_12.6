@@ -1,0 +1,25 @@
+body {
+	background-color: rgb(230, 230, 230);
+}
+button {
+	background-color: #1aff8c;
+	border: 1px solid #ccc;
+	border-radius: 3px 3px;
+	cursor: pointer;
+	font-size: 0.8em;
+	padding: 7px;
+}
+#country-name {
+	font-size: 0.8em;
+	padding: 7px;
+}
+ul {
+	list-style-type: decimal;
+	display: inline-block;
+}
+li {
+	background-color: #fff;
+	margin-bottom: 5px;
+	min-width: 100px;
+	padding: 7px;
+}
